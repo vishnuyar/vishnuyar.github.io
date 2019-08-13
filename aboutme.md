@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: I am Vishnu Yarmaneni, I am an aspiring Data Scientist
+subtitle: I am Vishnu Yarmaneni and I am an aspiring Data Scientist
 ---
 
 
