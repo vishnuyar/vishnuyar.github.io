@@ -20,4 +20,10 @@ Only 5.3% projects have been dropped which is commendable.
 
 ![Regionwise Lending](/img/lending_regions.png)
 
-In the 60's a majority of lending was given to Latin America and currently it is in Africa region. Lending to Asia has also comed down a bit. It resonates with development of these regions in these 5 decades.
+In the 60's a majority of lending was given to Latin America and currently it is in Africa region. Lending to Asia has also reduced. It resonates with development of these regions in these 5 decades.
+
+>Let us look at the Average Project lending agains the Number of projects Approved
+
+![Number of projects](/img/projects_count.png)
+
+In the last decade, even though the Average Project size has increased, the number of projects have come down. Is it because of Inflation or importance of World Bank lending or is it both ?
