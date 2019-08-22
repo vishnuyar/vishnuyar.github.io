@@ -26,4 +26,4 @@ In the 60's a majority of lending was given to Latin America and currently it is
 
 ![Number of projects](/img/projects_count.png)
 
-In the last decade, even though the Average Project size has increased, the number of projects have come down. Is it because of Inflation or importance of World Bank lending or is it both ?
+In the last decade, even though the Average Project size has increased, the number of projects have come down. Is it because of inflation , low importance to reciveing lending from World Bank or both ?
