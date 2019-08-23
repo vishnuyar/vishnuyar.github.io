@@ -22,8 +22,8 @@ description: Portfolio of my Data Science projects
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
+    - Pandas: "https://pandas.pydata.org/"
+    - Scipy: "https://www.scipy.org/"
   
 
 # Image to show in the navigation bar - image must be a square (width = height)
