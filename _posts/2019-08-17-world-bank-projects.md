@@ -30,7 +30,7 @@ No surprises here, all are developing countries, are the amounts proportional to
 
 In the 60's a majority of lending was given to Latin America and currently it is in Africa region. Lending to Asia has also reduced. It resonates with development of these regions in these 5 decades.
 
->Let us look at the Average Project lending agains the Number of projects Approved
+>Let us look at the Average Project lending against the Number of projects Approved
 
 ![Number of projects](/img/projects_count.png)
 
