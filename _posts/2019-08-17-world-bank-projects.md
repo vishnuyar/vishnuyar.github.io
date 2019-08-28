@@ -3,7 +3,7 @@ layout: post
 title: World Bank
 subtitle: Exploring World Bank Projects
 bigimg: /img/path.jpg
-tags: [world bank,visualization]
+tags: [world bank,visualization,lending]
 ---
 
 The [World Bank](https://www.worldbank.org/) provides financing and services to low and middle-income countries to support development and change. Development projects are implemented by borrowing countries following certain rules and procedures to guarantee that the money reaches its intended target.
