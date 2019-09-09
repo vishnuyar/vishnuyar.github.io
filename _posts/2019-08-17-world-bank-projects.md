@@ -6,7 +6,7 @@ bigimg: /img/path.jpg
 tags: [world bank,visualization,lending]
 ---
 
-The World Bank(https://www.worldbank.org/) provides financing and services to low and middle-income countries to support development and change. Development projects are implemented by borrowing countries following certain rules and procedures to guarantee that the money reaches its intended target.
+The [World Bank](https://www.worldbank.org/) provides financing and services to low and middle-income countries to support development and change. Development projects are implemented by borrowing countries following certain rules and procedures to guarantee that the money reaches its intended target.
 The data of the World Bank Projects is made publicly available and can be downloaded from here. My intention is to explore this dataset and notice ( if any), how the lending projects have evolved over the last 50 years.
 World Bank has been established in 1944 and since then it has provided lending services various countries via projects. How many such projects has it initiated since it’s inception.
 
