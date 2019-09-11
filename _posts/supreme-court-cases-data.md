@@ -13,7 +13,8 @@ from its first decision in 1791 to the Court's most recent decision. This datase
 
 Now, that the introduction of the dataset has been done, Let's see what interesting nuggets we come across.
 
-> We have a total of 8631 court cases data here. The earliest court case is from October 1946 and the latest is from November 2015
-As per the database , I need to cite the version of the databased here.
+> We have a total of 8893 court cases data here. The earliest court case decision is from November 1946 and the latest is from June 2018
 
 
+Citation:
+Harold J. Spaeth, Lee Epstein, et al. 2018 Supreme Court Database, Version 2018 Release 2. URL: http://Supremecourtdatabase.org
