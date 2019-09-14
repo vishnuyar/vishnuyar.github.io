@@ -23,14 +23,30 @@ Which group of people approach Supreme court ? Is it people worried about consit
 
 State Govts are the highest petitoners followed by Unites States Govt and then comes the "Person accused of crime". Please notice the choice of words.
 
-If Govts are both State and US Govt approach the court so much how come maximum type of cases taken up by Supreme Court are Criminal procedures.
-
 For that we will have to see the respondents categories. Respondents are parties against whom the petitoners have approached suprement court.
 Again the respondents are also State Govt , US Govt followed by "person accused of crime".
 
-Does that mean that when a Criminal case is judged in the lower court, irrespective of the decision, the aggrieved party petitions to the Supreme Courty. Even if this true, should the "Persons accused of crime" number be the more than State Govt and US Govt.
+Does that mean that when a Criminal case is judged in the lower court, irrespective of the decision, the aggrieved party petitions to the Supreme Courty. Even if this is true, should the "Persons accused of crime" number be the more than State Govt and US Govt.
 
-Let's check, the number of cases where respondent and petitioner or either State of US Govt.
+If Govts are both State and US Govt approach the court so much how come maximum type of cases taken up by Supreme Court are Criminal procedures.
+
+Let's check, the number of cases where respondent and petitioner or either State or US Govt.
+
+Most of the cases to Supreme Court originate from lower courts but how many are cases come directly to Supreme Court
+
+Only 344 cases i.e 3.68% of the cases in the last 70 years have been directly handled by Supreme Court.
+
+I wonder what makes these cases special. Let us look at the type of cases
+Interstate Relations is the top category, makes sense, it is followed by Civil Rights.
+
+How does Supreme Court take a decision ? Does it say you win or lose to the petitioning party.
+
+Let us see the type of decisions Supreme Court takes.
+
+Most of the decisions taken by the court are "Opinion of the Court" but in quite a few cases it is "per curiam" meaning the decision is taken collectively in the name of the court rather than in the name of Judge. 
+
+I am curious of the type of the cases where a Judge doesn't go by opinion but by "per Curiam"
+
 
 
 Citation:
