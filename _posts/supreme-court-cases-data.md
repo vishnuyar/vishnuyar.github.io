@@ -19,24 +19,36 @@ Let's see, What types of cases does Supreme Court have ?
 
 Criminal Procedures are the major cases handled by Supreme court followed by economic activity. 
 
-Which group of people approach Supreme court ? Is it people worried about consititutional rights or businesses worried about over regularisation.
+Which group of people approach Supreme court ? They are called petitoners. They petition the Court to look at their case. 
 
-State Govts are the highest petitoners followed by Unites States Govt and then comes the "Person accused of crime". Please notice the choice of words.
+[add petitioner graph plot]
 
-For that we will have to see the respondents categories. Respondents are parties against whom the petitoners have approached suprement court.
-Again the respondents are also State Govt , US Govt followed by "person accused of crime".
+State Govts are the highest petitoners followed by Unites States Govt and then comes the "Person accused of crime" and "Person convicted of crime" Please notice the choice of words. I can understand "Perons convicted of crime" approaching Supreme Court to overturn their decisions but why are the "Persons accused of Crime" such a high number in petitioner category.
 
-Does that mean that when a Criminal case is judged in the lower court, irrespective of the decision, the aggrieved party petitions to the Supreme Courty. Even if this is true, should the "Persons accused of crime" number be the more than State Govt and US Govt.
+Let's look at the respondents categories. Respondents are parties against whom the petitoners have approached suprement court.
 
-If Govts are both State and US Govt approach the court so much how come maximum type of cases taken up by Supreme Court are Criminal procedures.
+[add respondents graph plot]
 
-Let's check, the number of cases where respondent and petitioner or either State or US Govt.
+Again the mojor respondents are State Govts and US Govt followed by "Person accused of crime".
+
+Does that mean that when a Criminal case is judged in the lower court, irrespective of the decision, the aggrieved party petitions to the Supreme Courty. 
+
+Information: This Dataset constitutes 310 different categories of Respondents and Petitioners, I am probably using broad brushstrokes in my observation.
+
+State Govts and US Govt approach the Suprement Court so much, let's see if they ever approach against each other.
+[add_state_US govt plot]
+> In 195 cases State Govts and US Govt are against each other.
+
+Most of the cases move to Supreme Court which orginate from other courts. Which courts refer the most to the Supreme Court.
 
 Most of the cases to Supreme Court originate from lower courts but how many are cases come directly to Supreme Court
 
 Only 344 cases i.e 3.68% of the cases in the last 70 years have been directly handled by Supreme Court.
 
-I wonder what makes these cases special. Let us look at the type of cases
+I wonder what makes these cases special. Let us look at the type of cases which only Supreme Court handles.
+
+[add special cases plot]
+
 Interstate Relations is the top category, makes sense, it is followed by Civil Rights.
 
 How does Supreme Court take a decision ? Does it say you win or lose to the petitioning party.
