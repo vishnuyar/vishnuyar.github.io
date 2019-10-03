@@ -9,7 +9,7 @@ tags: [US Supreme Court,data visualisation,data exploration,predicting case outc
 Being a Data Scientist, I scout for datasets and I came across an interesting [dataset](http://Supremecourtdatabase.org). 
 It contains all the relevant data about US Supreme Court cases. I always thought law as a boring subject but the dataset piqued my interest.
 
-The database to which this introduction pertains to 70 years of the Court's decisions,from its first decision in 1946 to the Court's most recent decision. This dataset is a result of extraordinary work done by Harold J. Spaeth, Distinguished University Professor, emeritus, Michigan State University
+The database to which this introduction pertains to has 70 years of the Court's decisions,from its first decision in 1946 to the Court's most recent decision. This dataset is a result of extraordinary work done by Harold J. Spaeth, Distinguished University Professor, emeritus, Michigan State University
 
 Common sense says that the case outcome is decided based on the arguments presented by the Petitioner and Respondent. The final outcome is also based on the Area of Issue and relevant Laws. Still, I went ahead and implemented machine learning Algorithms and created a predictive model.
 
