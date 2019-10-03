@@ -2,6 +2,7 @@
 layout: post
 title: Predicting Supreme Court Case Outcome
 subtitle: Exploration of Supreme Court database
+bigimg: /img/supremecout.png
 tags: [US Supreme Court,data visualisation,data exploration,predicting case outcomes,dash app]
 ---
 
