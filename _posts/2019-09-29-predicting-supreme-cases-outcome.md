@@ -1,6 +1,6 @@
 ---
 layout: post
-title: US Supreme Court cases data exploration
+title: Predicting Supreme Court Case Outcome
 subtitle: Exploration of Supreme Court database
 tags: [US Supreme Court,data visualisation,data exploration,predicting case outcomes,dash app]
 ---
