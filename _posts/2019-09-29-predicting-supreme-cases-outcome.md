@@ -6,7 +6,7 @@ bigimg: /img/supremecourt.png
 tags: [US Supreme Court,data visualisation,data exploration,predicting case outcomes,dash app]
 ---
 
-Today, I came across an interesting [dataset](http://Supremecourtdatabase.org). 
+Being a Data Scientist, I scout for datasets and I came across an interesting [dataset](http://Supremecourtdatabase.org). 
 It contains all the relevant data about US Supreme Court cases. I always thought law as a boring subject but the dataset piqued my interest.
 
 The database to which this introduction pertains to 70 years of the Court's decisions,from its first decision in 1946 to the Court's most recent decision. This dataset is a result of extraordinary work done by Harold J. Spaeth, Distinguished University Professor, emeritus, Michigan State University
