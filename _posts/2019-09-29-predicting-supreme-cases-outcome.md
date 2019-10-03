@@ -3,6 +3,7 @@ layout: post
 title: Predicting Supreme Court Case Outcome
 subtitle: Exploration of Supreme Court database
 bigimg: /img/supremecourt.png
+youtubeId:M1IvmfQdEOQ 
 tags: [US Supreme Court,data visualisation,data exploration,predicting case outcomes,dash app]
 ---
 
@@ -17,7 +18,7 @@ Much to my surprise, this model was predicting the Outcome of the Supreme Court 
 
 To showcase this predictive model, I built a application around this Dataset. You can use this app to predict the outcome probability of an upcoming Court Case by providing the latest case details. You can also visualise the Supreme Court Dataset against various features of the Case.
 
-<iframe width="420" height="315" src=https://www.youtube.com/watch?v=M1IvmfQdEOQ frameborder="0"></iframe>
+{% include youtubePlayer.html id=page.youtubeId %}
 
 If you are interested to know more about this model and the predictive ability, please visit [Supreme Predictor](https://supremepredictor.vishnuyar.com)
 
