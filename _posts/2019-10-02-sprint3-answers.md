@@ -1,3 +1,10 @@
+---
+layout: post
+title: Blog Post on MongoDB and NewSQL
+subtitle: small post on sql databases
+
+---
+
 
 ## Answers to the Sprint Questions on 11th Oct 2019
 
