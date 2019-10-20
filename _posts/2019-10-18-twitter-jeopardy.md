@@ -16,4 +16,4 @@ Not happy with the current Players, add your own players, hell you can add yours
 
 Have a go at it, if you have complaints, ask the game who will tweet those complaints.
 
-I developed this flask web application as part of Lambda School curriculum in less than 5 days. You can looked at the [source code](https://github.com/vishnuyar/tweeton)
+I developed this flask web application as part of Lambda School curriculum in less than 5 days. [source code](https://github.com/vishnuyar/tweeton)
