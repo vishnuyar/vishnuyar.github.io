@@ -2,7 +2,7 @@
 layout: post
 title: TwitterJeopardy
 subtitle: playing jeopardy game with twitter users
-tags: [#twitter, #basilica, #datascience, #logisticregression]
+tags: [twitter,basilica,datascience,logisticregression]
 ---
 
 
