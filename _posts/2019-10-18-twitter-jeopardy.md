@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Twitter Jeopardy Game
-subtitle: using twitter access create a game
+title: TwitterJeopardy
+subtitle: playing jeopardy game with twitter users
 tags: [#twitter #basilica #datascience #logisticregression]
 ---
 
