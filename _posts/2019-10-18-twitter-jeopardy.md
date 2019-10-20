@@ -10,7 +10,9 @@ What do you do when you access to Twitter API and you are data scientist. Ofcour
 
 Using Logistic Regression,you create a model which compares the tweets of twitter users using embeddings of Basilica API.
 
-Now, you play, ask the model which user will tweet your favorite text. Voila, you have Twitter Jeopardy.
+Now, you play the game, ask the model which user will tweet your favorite text. Voila, you have Twitter Jeopardy.
+
+Not happy with the current Players, add your own players, hell you can add yourself :)
 
 Have a go at it, if you have complaints, ask the game who will tweet those complaints.
 
