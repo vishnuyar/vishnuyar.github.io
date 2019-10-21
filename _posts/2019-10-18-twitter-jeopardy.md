@@ -6,7 +6,7 @@ tags: [twitter,basilica,datascience,logisticregression]
 ---
 
 
-What do you do when you access to Twitter API and you are data scientist. Ofcourse you build [Twitter Jeopardy Game](http://twitter.vishnuyar.com)
+What do you do when you have access to Twitter API and you are a data scientist. Ofcourse you build [Twitter Jeopardy Game](http://twitter.vishnuyar.com)
 
 Using Logistic Regression,you create a model which compares the tweets of twitter users using embeddings of Basilica API.
 
