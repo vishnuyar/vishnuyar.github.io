@@ -17,7 +17,7 @@ Much to my surprise, this model was predicting the Outcome of the Supreme Court 
 
 To showcase this predictive model, I built a application around this Dataset. You can use this app to predict the outcome probability of an upcoming Court Case by providing the latest case details. You can also visualise the Supreme Court Dataset against various features of the Case.
 
-{% include youtubePlayer.html id=M1IvmfQdEOQ %}
+{% include youtubePlayer.html id="M1IvmfQdEOQ" %}
 
 If you are interested to know more about this model and the predictive ability, please visit [Supreme Predictor](https://supremepredictor.vishnuyar.com)
 
